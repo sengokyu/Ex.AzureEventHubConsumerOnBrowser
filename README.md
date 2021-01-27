@@ -25,10 +25,10 @@ export EVENTHUB_CONSUMER_GROUP='$Default'
 export EVENTHUB_NAME='your eventhub name'
 ```
 
-Run server and pen http://localhost:9080/
+Build and open `dist/index.html` file.
 
 ```
-npm run serve
+npm run build
 ```
 
 Execute producer.
